@@ -28,6 +28,7 @@
     "@angular-devkit/build-angular": "20.3.32",
     "@angular/cli": "20.3.32",
     "@angular/compiler-cli": "20.3.32",
+    "tsx": "^4.23.15",
     "typescript": "~5.9.3"
   }
 }
